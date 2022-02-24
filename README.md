@@ -1,2 +1,1 @@
-# Samsung
-Samsung Coding Practice
+#Practice 
